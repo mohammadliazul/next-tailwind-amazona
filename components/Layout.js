@@ -15,7 +15,7 @@ const Layout = ({ title, children }) => {
         <header>
           <nav className="flex h-12 items-center justify-between shadow-md px-4">
             <Link href="/">
-              <a className="text-lg font-bold">amazona</a>
+              <a className="text-lg font-bold">Amazona</a>
             </Link>
             <div>
               <Link href="/cart">
